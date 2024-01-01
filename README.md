@@ -1,4 +1,4 @@
-# Samuel Ojeozi
+### Samuel Ojeozi
 
 I go through your organisation's data, tell you how your organisation is doing, tell you why it's doing so and tell you how it could do better.
 Having trouble gathering or organising your business data? Well, that's where I come in.
