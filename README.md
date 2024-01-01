@@ -12,7 +12,7 @@ I gather and analyze relevant data to provide your organisation with information
 * 💻 R Programming
 * 🐱‍💻 Web scrapping
  
-Reach me through gmail on ojeozisamuel@gmial.com
+Email: ojeozisamuel@gmial.com
 
 <!---
 OJEOZI/OJEOZI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
