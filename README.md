@@ -10,7 +10,7 @@ I gather and analyze relevant data to provide your organisation with information
 * 🥛 SQL
 * 📊 Power BI
 * 💻 R Programming
-* 🐱‍💻 Web scrapping
+* 🌐 Web scrapping
  
 Email: ojeozisamuel@gmial.com
 
